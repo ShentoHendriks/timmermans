@@ -104,10 +104,11 @@ main {
 
 h3 {
     font-family: "San Francisco";
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 900;
     text-align: center;
     margin-bottom: 440px;
+    width: 75vw;
 }
 
 .wrapper {
@@ -121,7 +122,8 @@ h3 {
     text-align: center;
     margin: 0 auto;
     margin-top: 269px;
-    margin-bottom: 94px;
+    margin-bottom: 260px;
+    width: 90%;
 }
 
 .wrapper button {
@@ -230,8 +232,8 @@ button {
     position: fixed;
     background: white;
     z-index: 2;
-    width: 80vw;
-    height: 80vh;
+    width: 70vw;
+    height: 65vh;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -239,8 +241,8 @@ button {
     box-shadow: yellow 5px 5px;
     padding: 70px;
     font-family: "San Francisco";
-    font-size: 32px;
-    line-height: 38px;
+    font-size: 20px;
+    line-height: 21px;
 }
 
 .popup img {
@@ -255,7 +257,7 @@ button {
 }
 
 .popup p {
-    width: 70%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -271,5 +273,7 @@ button {
     display: block;
     margin: 0 auto;
     text-align: center;
+    margin-top: 80px;
     margin-bottom: 40px;
+    width: 50%;
 }
