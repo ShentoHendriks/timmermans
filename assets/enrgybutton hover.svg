@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="339.088" height="332.555" viewBox="0 0 339.088 332.555">
+  <g id="enrgybutton" transform="translate(7.014 2.832)">
+    <g id="FilledEnergy" transform="translate(-7.01 -2.83)">
+      <g id="Layer_2" data-name="Layer 2">
+        <path id="Path_1" data-name="Path 1" d="M15.83,329.72,332.07,219.31,150.78,109.9l-133.6,3.28L198.47,222.59,15.83,329.72" fill="#fcee21" stroke="#fcee21" stroke-width="6"/>
+        <path id="Path_2" data-name="Path 2" d="M323.25,2.83,7.01,113.25,188.3,222.65l133.6-3.28L140.61,109.96,323.25,2.83" fill="#fcee21" stroke="#fcee21" stroke-width="6"/>
+      </g>
+      <g id="Layer_3" data-name="Layer 3">
+        <path id="Path_3" data-name="Path 3" d="M15.83,329.72,330.62,219.81H192Z" fill="rgba(0,0,0,0)" stroke="#000" stroke-width="1"/>
+        <path id="Path_4" data-name="Path 4" d="M330.62,219.81,145.29,109.9H14.15L192,219.81" fill="rgba(0,0,0,0)" stroke="#000" stroke-width="1"/>
+        <path id="Path_5" data-name="Path 5" d="M14.15,109.9,321.43,2.83,145.29,109.9" fill="rgba(0,0,0,0)" stroke="#000" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
